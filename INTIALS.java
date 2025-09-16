@@ -8,7 +8,7 @@ public class Main implements Directions{
     // The line below creates a Robot that we will refer to as r.  
     // Find out what the numbers and direction do!
 
-	
+	//hi
     Robot r = new Robot(4,1,East,10);
     Robot r1= new Robot(4,6,East,10);
    
@@ -83,4 +83,5 @@ public class Main implements Directions{
     r.move();
     r.putBeeper();
   }
+
 }
